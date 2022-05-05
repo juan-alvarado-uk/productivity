@@ -62,7 +62,7 @@ cd todo_react
 npm start
 ```
 
-> This are full web servers for the project. Any time you make changes within the `src` directory, it will rebuild and even refresh your browser.
+> These are full web servers for the project. Any time you make changes within the `src` directory, it will rebuild and even refresh your browser.
 
 
 **6. Generate a production build in `./build` :**
