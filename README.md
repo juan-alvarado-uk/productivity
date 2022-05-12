@@ -21,7 +21,7 @@ Once miniconda is installed, create a virtual environment.
 
 Create a new environment (with Python 3.10)
 ```sh
-conda create --name TC2002S python=3.8
+conda create --name TC2002S python=3.10
 ```
 When you want to use it, activate environment
 ```sh
